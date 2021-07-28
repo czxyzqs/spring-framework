@@ -1,8 +1,4 @@
-<<<<<<< HEAD:spring-demo/src/main/java/com/youlai/spring/factorybean/CarFactoryBean.java
 package com.youlai.spring.factorybean;
-=======
-package com.youlai.spring.ch05.factorybean;
->>>>>>> 690f2356eb1b94bf424194b8287d793bdb818aa6:spring-demo/src/main/java/com/youlai/spring/ch05/factorybean/CarFactoryBean.java
 
 import org.springframework.beans.factory.FactoryBean;
 
